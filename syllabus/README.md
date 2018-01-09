@@ -28,8 +28,9 @@ Understanding language is fundamental to human interaction. Our brains have evol
 * **Section 5:** Thursday 6:30 - 8p Pacific (Ian Tenney)
 
 **Office Hours:**
-* **Nithum Thain**: Thursday at noon Pacific 
-* **James Kunz**: Tuesday immediately after the live sessions.
+* **Drew/Joachim**: Tuesday at noon Pacific.
+* **James Kunz**: Tuesday immediately after his live session.
+* **Nithum Thain**: Thursday at noon Pacific.
 * **Other Instructors**: Immediately after their live session.
 
 **Teaching Staff**
