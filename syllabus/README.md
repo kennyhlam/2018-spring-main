@@ -11,7 +11,7 @@
 Understanding language is fundamental to human interaction. Our brains have evolved language-specific circuitry that helps us learn it very quickly; however, this also means that we have great difficulty explaining how exactly meaning arises from sounds and symbols. This course is a broad introduction to linguistic phenomena and our attempts to analyze them with machine learning. We will cover a wide range of concepts with a focus on practical applications such as information extraction, machine translation, sentiment analysis, and summarization.
 
 **Prerequisites:**
-* Python: All assignments will be in Python using Jupyter notebooks, NumPy, and TensorFlow.
+* Language: All assignments will be in Python using Jupyter notebooks, NumPy, and TensorFlow.
 * Time:  There are 5-6 substantial assignments in this course as well as a term project.  Make sure you give yourself enough time to be successful! In particular, you may be in for a rough semester if you take both this and any of 210 (Capstone), 261, or 271 :)
 * [MIDS 207 (Machine Learning)](https://www.ischool.berkeley.edu/courses/datasci/207): We assume you know what gradient descent is.  We'll review simple linear classifiers and softmax at a high level, but make sure you've at least heard of these! You should also be comfortable with linear algebra, which we'll use for vector representations and when we discuss deep learning.
 
@@ -29,9 +29,10 @@ Understanding language is fundamental to human interaction. Our brains have evol
 
 **Office Hours:**
 * **Drew/Joachim**: Tuesday at noon Pacific.
-* **James Kunz**: Tuesday immediately after his live session.
+* **James Kunz**: Tuesday immediately after his live session (9pm Pacific).
+* **Daniel Cer**: Wednesday at noon Pacific.
 * **Nithum Thain**: Thursday at noon Pacific.
-* **Other Instructors**: Immediately after their live session.
+* **Ian Tenney**: Thursday immediately after his live session (9pm Pacific).
 
 **Teaching Staff**
 * [Daniel Cer](mailto:cer@ischool.berkeley.edu)
