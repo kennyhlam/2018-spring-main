@@ -106,8 +106,7 @@ The course will be taught in Python, and we'll be making heavy use of NumPy, Ten
 
 ### Misc. Deep Learning and NLP References
 A few useful papers that don’t fit under a particular week. All optional, but interesting!
-* (optional) [Chris Olah’s blog](http://colah.github.io/)
-* (optional) [Natural Language Processing (almost) from Scratch (Collobert and Weston, 2011)](https://arxiv.org/pdf/1103.0398v1.pdf)
+* (optional) [Chris Olah’s blog](http://colah.github.io/) and [Distill](https://distill.pub/)
 * (optional) [GloVe: Global Vectors for Word Representation (Pennington, Socher, and Manning, 2014)](http://nlp.stanford.edu/pubs/glove.pdf)
 
 ---
@@ -158,7 +157,10 @@ We'll update the table below with assignments as they become available, as well 
 </tr>
 <tr><!--- Sentiment/Classification -->
   <td><strong>Week&nbsp;2</strong><br>(January&nbsp;15&nbsp;-&nbsp;21)</td>
-  <td>Classification and Sentiment</td>
+  <td>Classification and Sentiment
+  <p><p>
+  <em>Note: you may want to skim Async 5.3, 5.4, and 5.5 before the sections on CNNs (2.7 onwards).</em>
+  </td>
   <td><ul>
   <li>Sentiment lexicons
   <li>Aggregated sentiment applications
@@ -167,7 +169,8 @@ We'll update the table below with assignments as they become available, as well 
   <td><ul>
   <li>Skim: <a href="http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf" target="_blank">Opinion Mining and Sentiment Analysis</a> (Pang and Lee 2008) - focus on Chapters 1-4
   <li>Read: <a href="http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/" target="_blank">Understanding Convolutional Neural Networks for NLP</a>
-  <li>Read: <a href="https://arxiv.org/abs/1408.5882" target="_blank">Convolutional Neural Networks for Sentence Classification</a>
+  <li>Read: <a href="https://arxiv.org/abs/1408.5882" target="_blank">Convolutional Neural Networks for Sentence Classification</a> (Yoon Kim, 2014)
+  <li><em>Optional:</em> <a href="https://arxiv.org/pdf/1103.0398v1.pdf" target="_blank">Natural Language Processing (almost) from Scratch</a> (Collobert et al., 2011)
 </tr>
 <tr><!--- TF and Info Theory Assignment -->
   <td><strong><a href="../assignment/a1" target="_blank">Assignment&nbsp;1</a></strong>
@@ -348,6 +351,8 @@ We'll update the table below with assignments as they become available, as well 
   <li>Graph based parsing: Eisner Algorithm, Chu&#8209;Liu&#8209;Edmonds
   </ul></td>
   <td><ul>
+  <!-- TODO(iftenney): move Nautilus article to Week 1. -->
+  <li>Read: <a href="http://nautil.us/issue/54/the-unspoken/the-rise-and-fall-of-the-english-sentence" target="_blank">The Rise and Fall of the English Sentence</a>
   <li>Read: <a href="https://research.googleblog.com/2016/05/announcing-syntaxnet-worlds-most.html" target="_blank">SyntaxNet (Parsey McParseface)</a>
   <li>Read: <a href="https://web.stanford.edu/~jurafsky/slp3/14.pdf" target="_blank">Dependency Parsing (J&M Chapter 14)</a>
   <li><em>Optional:</em> <a href="http://cs.stanford.edu/people/danqi/papers/emnlp2014.pdf" target="_blank">A Fast and Accurate Dependency Parser using Neural Networks</a> (Chen & Manning 2014)
