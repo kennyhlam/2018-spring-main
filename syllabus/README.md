@@ -147,16 +147,14 @@ We'll update the table below with assignments as they become available, as well 
   </td>
 </tr>
 <tr><!--- Assignment 0 -->
-  <!-- <td><strong><a href="../assignment/a0" target="_blank">Assignment&nbsp;0</a></strong> -->
-  <td><strong>Assignment&nbsp;0</strong>
+  <td><strong><a href="../assignment/a0" target="_blank">Assignment&nbsp;0</a></strong>
   <br>due&nbsp;January&nbsp;14</td>
   <td><strong>Course Set-up</strong></td>
   <td><ul>
     <li>GitHub
     <li>Google Cloud
   </ul></td>
-  <!-- <td><a href="../assignment/a0" target="_blank">Assignment 0</a></td> -->
-  <td><em>Coming soon!</em></td>
+  <td><a href="../assignment/a0" target="_blank">Assignment 0</a></td>
 </tr>
 <tr><!--- Sentiment/Classification -->
   <td><strong>Week&nbsp;2</strong><br>(January&nbsp;15&nbsp;-&nbsp;21)</td>
@@ -172,17 +170,15 @@ We'll update the table below with assignments as they become available, as well 
   <li>Read: <a href="https://arxiv.org/abs/1408.5882" target="_blank">Convolutional Neural Networks for Sentence Classification</a>
 </tr>
 <tr><!--- TF and Info Theory Assignment -->
-  <!-- <td><strong><a href="../assignment/a1" target="_blank">Assignment&nbsp;1</a></strong> -->
-  <td><strong>Assignment&nbsp;1</strong>
+  <td><strong><a href="../assignment/a1" target="_blank">Assignment&nbsp;1</a></strong>
   <br>due&nbsp;January&nbsp;21</td>
   <td><strong>Background and TensorFlow</strong></td>
   <td><ul>
   <li>Information Theory
   <li>Dynamic Programming
-  <li>TensorFlow tutorial
+  <li>TensorFlow Introduction
   </ul></td>
-  <!-- <td><a href="../assignment/a1" target="_blank">Assignment 1</a></td> -->
-  <td><em>Coming soon!</em></td>
+  <td><a href="../assignment/a1" target="_blank">Assignment 1</a></td>
 </tr>
 <tr><!--- n-grams -->
   <td><strong>Week&nbsp;3</strong><br>(January&nbsp;22&nbsp;-&nbsp;28)</td>
