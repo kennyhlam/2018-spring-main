@@ -86,7 +86,7 @@ If you run into a more serious issue that will affect your ability to complete t
 ## Course Resources
 We are not using any particular textbook for this course. We’ll list some relevant readings each week. Here are some general resources:
 * [Speech and Language Processing (2nd edition)](http://www.cs.colorado.edu/~martin/slp.html) (Jurafsky and Martin)
-* [Speech and Language Processing (3rd edition draft)](https://web.stanford.edu/~jurafsky/slp3/) (Jurafsky and Martin)
+* [Speech and Language Processing (3rd edition draft)](https://web.stanford.edu/~jurafsky/slp3/) (Jurafsky and Martin) - _free online!_
 * [NLTK Book](http://www.nltk.org/book/) - Accompanies NLTK (Natural Language ToolKit) and includes useful, practical descriptions (with python code) of basic concepts.
 * [Deep Learning](http://www.deeplearningbook.org/) (Goodfellow, Bengio, and Courville)
 
@@ -201,6 +201,23 @@ We'll update the table below with assignments as they become available, as well 
   <!-- <a href="../materials/week3/lm1.ipynb" target="_blank">[Language&nbsp;Modeling&nbsp;Notebook]</a> -->
   </td>
 </tr>
+<tr><!--- Paper Sessions  -->
+  <!-- <td><strong><a href="https://piazza.com/class/j6idloirx4bg4?cid=170" target="_blank">Paper Sessions</a></strong> -->
+  <td><strong>Paper Sessions</strong>
+  <br>January 17, 25, 30, <br>and February 1</td>
+  <td>Reading the NLP Literature</td>
+  <td><ul>
+  <li>Finding papers
+  <li>Reading papers
+  <li>In-depth critique
+  </ul></td>
+  <!-- <td><ul>                                                                                                                                                                                                -->
+  <!-- <li>Feb 2: <a href="http://www.aclweb.org/anthology/Q/Q17/Q17-1010.pdf" target="_blank">Enriching Word Vectors with Subword Information</a>                                                             -->
+  <!-- <li>Feb 5: <a href="https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf" target="_blank">Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank</a>                             -->
+  <!-- <li>Feb 9: <a href="https://web.stanford.edu/~jurafsky/pubs/linguistic_change_lifecycle.pdf" target="_blank">No Country for Old Members: User Lifecycle and Linguistic Change in Online Communities</a> -->
+  <!-- </ul></td>                                                                                                                                                                                              -->
+  <td><em>Papers TBA</em></td>
+</tr>
 <tr><!--- Distributed representation. -->
   <td><strong>Week&nbsp;4</strong><br>(January&nbsp;29&nbsp;-&nbsp;February&nbsp;4)</td>
   <td>Clusters and Distributions</td>
@@ -234,23 +251,6 @@ We'll update the table below with assignments as they become available, as well 
   <td></td>
   <!-- <td><a href="../assignment/a2" target="_blank">Assignment 2</a></td> -->
   <td><em>To be released...</em></td>
-</tr>
-<tr><!--- Paper Sessions  -->
-  <!-- <td><strong><a href="https://piazza.com/class/j6idloirx4bg4?cid=170" target="_blank">Paper Sessions</a></strong> -->
-  <td><strong>Paper Sessions</strong>
-  <br><em>Early February</em></td>
-  <td>Reading the NLP Literature</td>
-  <td><ul>
-  <li>Finding papers
-  <li>Reading papers
-  <li>In-depth critique
-  </ul></td>
-  <!-- <td><ul>                                                                                                                                                                                                -->
-  <!-- <li>Feb 2: <a href="http://www.aclweb.org/anthology/Q/Q17/Q17-1010.pdf" target="_blank">Enriching Word Vectors with Subword Information</a>                                                             -->
-  <!-- <li>Feb 5: <a href="https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf" target="_blank">Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank</a>                             -->
-  <!-- <li>Feb 9: <a href="https://web.stanford.edu/~jurafsky/pubs/linguistic_change_lifecycle.pdf" target="_blank">No Country for Old Members: User Lifecycle and Linguistic Change in Online Communities</a> -->
-  <!-- </ul></td>                                                                                                                                                                                              -->
-  <td><em>Papers TBA</em></td>
 </tr>
 <tr><!--- Neural language models -->
   <td><strong>Week&nbsp;5-6</strong><br>(February&nbsp;5&nbsp;-&nbsp;18)</td>

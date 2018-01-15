@@ -105,9 +105,7 @@ def MakeLogits(x_ph, hidden_dims):
     Hint: Gracefully handle the case of no fully connected layers.
     Hint: The final affine layer is there to change the final output dimension
           to a scalar regardless of what the fully connected layer does.
-    Hint: the nonlinearity associated with the final affine layer is the sigmoid
-          (sometimes the "softmax" in other problems we'll see layer in the course).
-          Specifically, you should not do Affine->Relu->Sigmoid.  Just Affine->Sigmoid.
+    Hint: Just return the logits.  Don't pass it through the final sigmoid (that's done in train_nn()).
     '''
     # YOUR CODE HERE
     return None

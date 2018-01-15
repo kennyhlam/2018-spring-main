@@ -15,4 +15,4 @@ summarization.
 * [Syllabus](syllabus/)
 * [Assignments](assignment/)
 * [Project](project/)
-* [Notebooks & materials](materials/)
+* [Notebooks & Materials](materials/)
