@@ -48,19 +48,6 @@ class TestLayer(tf.test.TestCase):
             self.assertEqual((2, 1), out_val.shape)
             self.assertAllClose([[0.0],[0.245194]], out_val)
 
-    def test_fully_connected_doesnt_use_hidden_dim_as_layer_name(self):
-        tf.set_random_seed(0)
-        with self.test_session() as sess:
-            x = tf.placeholder(tf.float32, shape=[None, 3])
-            out = graph.fully_connected_layers([10, 10, 10, 10, 20, 1], x)
-            self.assertAllEqual(1, out.get_shape()[-1])
-            sess.run(tf.global_variables_initializer())
-            sess.run(out, feed_dict={
-                x: np.array([[1., 2., 3.], [4., 5., 6.]])})
-            x_val = np.array([[-3., 2., 1.], [5., 6., 87.]])
-            out_val = sess.run(out, feed_dict={x: x_val})
-
-
     def test_no_fully_connected_layers(self):
         tf.set_random_seed(0)
         with self.test_session() as sess:
