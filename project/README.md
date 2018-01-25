@@ -103,5 +103,7 @@ This will be a final report in the style of a research paper. Aim for 4-6 pages 
 - **Results and discussion** (include plots & figures, and detailed analysis in comparison to baseline and the literature, if applicable)
 - **Conclusion**
 
+**Privacy:** If you don't want us to release your report publicly, please include that statement in your submission email.
+
 Again, please send your write-up PDF by email to mids-nlp-instructors@googlegroups.com and include a link to all the code you wrote.
 

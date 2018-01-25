@@ -4,6 +4,14 @@ from __future__ import division
 import nltk
 import graphviz as gv
 
+def monkey_patch(tree_class, node_style_fn=None, format='svg', graph_attr={}):
+	def render_fn(tree):
+	    return render_tree(tree, title=make_title(tree),
+						   node_style_fn=node_style_fn,
+						   format=format, **graph_attr)
+	tree_class._repr_png_ = lambda _: None
+	tree_class._repr_html_ = render_fn
+
 def clean_kw(kw):
     return {k:str(v) for k,v in kw.items()}
 
