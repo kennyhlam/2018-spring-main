@@ -211,12 +211,15 @@ We'll update the table below with assignments as they become available, as well 
   <li>Reading papers
   <li>In-depth critique
   </ul></td>
-  <!-- <td><ul>                                                                                                                                                                                                -->
-  <!-- <li>Feb 2: <a href="http://www.aclweb.org/anthology/Q/Q17/Q17-1010.pdf" target="_blank">Enriching Word Vectors with Subword Information</a>                                                             -->
-  <!-- <li>Feb 5: <a href="https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf" target="_blank">Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank</a>                             -->
-  <!-- <li>Feb 9: <a href="https://web.stanford.edu/~jurafsky/pubs/linguistic_change_lifecycle.pdf" target="_blank">No Country for Old Members: User Lifecycle and Linguistic Change in Online Communities</a> -->
-  <!-- </ul></td>                                                                                                                                                                                              -->
-  <td><em>Papers TBA</em></td>
+  <td><ul>
+  <li>Jan 17: <a href="https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf" target="_blank">Distributed Representations of Words and Phrases and their Compositionality</a>
+  <li>Jan 25: <a href="https://arxiv.org/pdf/1704.04368.pdf" target="_blank">Get To The Point: Summarization with Pointer-Generator Networks</a><br>
+    + <a href="https://docs.google.com/document/d/1YgcO_ruyt4LMe10KCEY4_3UAXZbyOe0kF9TU1U9OSkM/edit?usp=sharing" target="_blank">[Ian's notes]</a>
+  <li>Jan 30: <a href="https://web.stanford.edu/~jurafsky/pubs/linguistic_change_lifecycle.pdf" target="_blank">No Country for Old Members: User Lifecycle and Linguistic Change in Online Communities</a>
+  <li>Feb 1: <a href="http://nlp.cs.aueb.gr/pubs/emnlp2017.pdf" target="_blank">Deeper Attention to Abusive User Content Moderation</a>
+  </ul>
+  <a href="https://docs.google.com/presentation/d/1QAydoH4eP8fW9FYEe8trODGQdZfb6us7NYx3PjGu-6A/edit#slide=id.p" target="_blank">[Slides]</a>
+  </td>
 </tr>
 <tr><!--- Distributed representation. -->
   <td><strong>Week&nbsp;4</strong><br>(January&nbsp;29&nbsp;-&nbsp;February&nbsp;4)</td>
@@ -240,17 +243,14 @@ We'll update the table below with assignments as they become available, as well 
   </td>
 </tr>
 <tr><!--- Classification assignment -->
-  <!-- <td><strong><a href="../assignment/a2" target="_blank">Assignment&nbsp;2</a></strong> -->
-  <td><strong>Assignment&nbsp;2</strong>
+  <td><strong><a href="../assignment/a2" target="_blank">Assignment&nbsp;2</a></strong>
   <br>due&nbsp;February&nbsp;11</td>
   <td><strong>Text Classification</strong></td>
-  <!-- <td><ul>                   -->
-  <!--   <li>Smoothed n-grams     -->
-  <!--   <li>Exploring embeddings -->
-  <!-- </ul></td>                 -->
-  <td></td>
-  <!-- <td><a href="../assignment/a2" target="_blank">Assignment 2</a></td> -->
-  <td><em>To be released...</em></td>
+  <td><ul>
+    <li>Exploration & Naive Bayes
+    <li>Neural Bag-of-Words
+  </ul></td>
+  <td><a href="../assignment/a2" target="_blank">Assignment 2</a></td>
 </tr>
 <tr><!--- Neural language models -->
   <td><strong>Week&nbsp;5-6</strong><br>(February&nbsp;5&nbsp;-&nbsp;18)</td>
@@ -320,10 +320,10 @@ We'll update the table below with assignments as they become available, as well 
   <td><strong>Assignment&nbsp;3</strong>
   <br>due&nbsp;February&nbsp;25</td>
   <td><strong>n-grams and Word Embeddings</strong></td>
-  <td><ul>                  
-    <li>Smoothed n-grams    
+  <td><ul>
+    <li>Smoothed n-grams
     <li>Exploring embeddings
-  </ul></td>                
+  </ul></td>
   <td><em>To be released...</em></td>
 </tr>
 <tr><!--- POS II -->
