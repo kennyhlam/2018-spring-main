@@ -262,7 +262,7 @@ We'll update the table below with assignments as they become available, as well 
   <li>State of the art: Recurrent Neural Nets
   </ul></td>
   <td><ul>
-  <li>Read: <a href="http://machinelearning.wustl.edu/mlpapers/paper_files/BengioDVJ03.pdf" target="_blank">A Neural Probabilistic Language Model</a> (Bengio et al. 2003)
+  <li>Read: <a href="http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">A Neural Probabilistic Language Model</a> (Bengio et al. 2003)
   <li>Read or skim: <a href="http://neuralnetworksanddeeplearning.com/chap2.html" target="_blank">How the backpropagation algorithm works</a>
   <li><em>Optional:</em> <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">Understanding LSTM Networks</a> (Chris Olah's blog)
   <li><em>Optional (skim):</em> <a href="https://www.tensorflow.org/versions/master/tutorials/recurrent/index.html#recurrent-neural-networks" target="_blank">Tensorflow LSTM Language Model Tutorial</a>
