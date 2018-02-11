@@ -28,11 +28,14 @@ Understanding language is fundamental to human interaction. Our brains have evol
 * **Section 5:** Thursday 6:30 - 8p Pacific (Ian Tenney)
 
 **Office Hours:**
+
 * **Drew/Joachim**: Tuesday at noon Pacific.
 * **James Kunz**: Tuesday immediately after his live session (8pm Pacific).
 * **Daniel Cer**: Wednesday at noon Pacific.
 * **Nithum Thain**: Thursday at noon Pacific.
 * **Ian Tenney**: Thursday immediately after his live session (8pm Pacific).
+
+Office hours are for the whole class; students from any section are welcome to attend any of the times above.
 
 **Teaching Staff**
 * [Daniel Cer](mailto:cer@ischool.berkeley.edu)
