@@ -58,6 +58,12 @@ class Vocabulary(object):
     def num_bigrams(self):
         return len(self.bigram_counts)
 
+    def __contains__(self, key):
+        if isinstance(key, int):
+            return (key > 0 and key < self.size)
+        else:
+            return key in self.word_to_id
+
     def words_to_ids(self, words):
         return [self.word_to_id.get(w, self.UNK_ID) for w in words]
 

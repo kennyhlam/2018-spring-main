@@ -200,13 +200,12 @@ We'll update the table below with assignments as they become available, as well 
   <li>Skim: <a href="http://arxiv.org/pdf/1312.3005.pdf" target="_blank">1 Billion Word Benchmark</a>
   <li><em>Optional:</em> <a href="http://norvig.com/ngrams/ch14.pdf" target="_blank">Natural Language Corpus Data (Peter Norvig)</a>
   </ul>
-  <!-- <p>                                                                                               -->
-  <!-- <a href="../materials/week3/lm1.ipynb" target="_blank">[Language&nbsp;Modeling&nbsp;Notebook]</a> -->
+  <p>
+  <a href="../materials/simple_lm/lm1.ipynb" target="_blank">[Language&nbsp;Modeling&nbsp;Notebook]</a>
   </td>
 </tr>
 <tr><!--- Paper Sessions  -->
-  <!-- <td><strong><a href="https://piazza.com/class/j6idloirx4bg4?cid=170" target="_blank">Paper Sessions</a></strong> -->
-  <td><strong>Paper Sessions</strong>
+  <td><strong><a href="https://piazza.com/class/jay9yl154v6ru?cid=51" target="_blank">Paper Sessions</a></strong>
   <br>January 17, 25, 30, <br>and February 1</td>
   <td>Reading the NLP Literature</td>
   <td><ul>
@@ -240,9 +239,9 @@ We'll update the table below with assignments as they become available, as well 
   <li><em>Optional:</em> <a href="https://www.tensorflow.org/versions/master/tutorials/word2vec/index.html" target="_blank">Tensorflow Word2Vec Tutorial</a> (just the parts on <a href="https://github.com/tensorflow/tensorflow/blob/r0.10/tensorflow/examples/tutorials/word2vec/word2vec_basic.py" target="_blank">word2vec_basic.py</a> - don’t bother with the “Optimizing the Implementation” part or anything in C++)
   <li><em>Optional:</em> <a href="https://www.technologyreview.com/s/602025/how-vector-space-mathematics-reveals-the-hidden-sexism-in-language/" target="_blank">How Vector Space Mathematics Reveals the Hidden Sexism in Language</a> (and the <a href="http://arxiv.org/abs/1607.06520" target="_blank">original paper</a>)
   </ul>
-  <!-- <p>                                                                                                       -->
-  <!-- <a href="../materials/week4/embeddings.ipynb" target="_blank">[Word&nbsp;Embeddings&nbsp;Notebook]</a>    -->
-  <!-- <a href="http://projector.tensorflow.org/" target="_blank">[TensorFlow&nbsp;Embedding&nbsp;Projector]</a> -->
+  <p>
+  <a href="../materials/embeddings/embeddings.ipynb" target="_blank">[Word&nbsp;Embeddings&nbsp;Notebook]</a>
+  <a href="http://projector.tensorflow.org/" target="_blank">[TensorFlow&nbsp;Embedding&nbsp;Projector]</a>
   </td>
 </tr>
 <tr><!--- Classification assignment -->
@@ -271,9 +270,9 @@ We'll update the table below with assignments as they become available, as well 
   <li><em>Optional (skim):</em> <a href="https://www.tensorflow.org/versions/master/tutorials/recurrent/index.html#recurrent-neural-networks" target="_blank">Tensorflow LSTM Language Model Tutorial</a>
   <li><em>Optional / fun:</em> <a href="http://playground.tensorflow.org/" target="_blank">Tensorflow Playground</a>
   </ul>
-  <!-- <p>                                                                         -->
-  <!-- <p>                                                                         -->
-  <!-- <a href="../materials/week4/nplm.ipynb" target="_blank">[NPLM Notebook]</a> -->
+  <p>
+  <p>
+  <a href="../materials/nplm/nplm.ipynb" target="_blank">[NPLM Notebook]</a>
   </td>
 </tr>
 <tr><!--- Project Proposal -->
@@ -319,15 +318,14 @@ We'll update the table below with assignments as they become available, as well 
   </td>
 </tr>
 <tr><!--- LM & embeddings assignment -->
-  <!-- <td><strong><a href="../assignment/a3" target="_blank">Assignment&nbsp;3</a></strong> -->
-  <td><strong>Assignment&nbsp;3</strong>
+  <td><strong><a href="../assignment/a3" target="_blank">Assignment&nbsp;3</a></strong>
   <br>due&nbsp;February&nbsp;25</td>
   <td><strong>n-grams and Word Embeddings</strong></td>
   <td><ul>
     <li>Smoothed n-grams
     <li>Exploring embeddings
   </ul></td>
-  <td><em>To be released...</em></td>
+  <td><a href="../assignment/a3" target="_blank">Assignment 3</a></td>
 </tr>
 <tr><!--- POS II -->
   <td><strong>Optional</strong></td>
