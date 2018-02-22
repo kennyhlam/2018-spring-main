@@ -139,7 +139,7 @@ We'll update the table below with assignments as they become available, as well 
   </ul></td>
   <td><ul>
   <li>Skim: <a href="http://www.nltk.org/book/ch01.html" target="_blank">NLTK book chapter 1 (python and basics)</a>
-  <li>Skim: <a href="http://www.nltk.org/book_1ed/ch02.html" target="_blank">NLTK book chapter 2 (data resources)</a>
+  <li>Skim: <a href="http://www.nltk.org/book/ch02.html" target="_blank">NLTK book chapter 2 (data resources)</a>
   <li>Read: <a href="https://www.technologyreview.com/s/602094/ais-language-problem/" target="_blank">AI’s Language Problem (Technology Review)</a>
   <li><em>Optional:</em> <a href="http://www.newyorker.com/magazine/2007/04/16/the-interpreter-2" target="_blank">The Interpreter (New Yorker)</a>
   <li><em>Optional:</em> <a href="https://www.uio.no/studier/emner/hf/ikos/EXFAC03-AAS/h05/larestoff/linguistics/Chapter%204.(H05).pdf" target="_blank">Introduction to Linguistic Typology</a>
@@ -293,7 +293,7 @@ We'll update the table below with assignments as they become available, as well 
   <li>Sentence splitting
   </ul></td>
   <td><ul>
-  <li>Skim: <a href="http://www.nltk.org/book_1ed/ch03.html" target="_blank">NLTK book chapter 3</a> (processing raw text)
+  <li>Skim: <a href="http://www.nltk.org/book/ch03.html" target="_blank">NLTK book chapter 3</a> (processing raw text)
   <li>Skim: <a href="http://norvig.com/ngrams/ch14.pdf" target="_blank">Natural Language Corpus Data</a> (Peter Norvig) <em>(if you didn't read in Week 2)</em>
   <li>Read: <a href="http://www.dgillick.com/resource/sbd_naacl_2009.pdf" target="_blank">Sentence Boundary Detection and the Problem with the U.S.</a>
   <p>
@@ -310,7 +310,7 @@ We'll update the table below with assignments as they become available, as well 
   <b>Note:</b> Section 7.6 this week in the async is optional.
   </td>
   <td><ul>
-  <li>Read: <a href="http://www.nltk.org/book_1ed/ch05.html" target="_blank">NLTK book chapter 5: Categorizing and Tagging Words</a>
+  <li>Read: <a href="http://www.nltk.org/book/ch05.html" target="_blank">NLTK book chapter 5: Categorizing and Tagging Words</a>
   </ul>
   <p>
   <br>
@@ -383,7 +383,7 @@ We'll update the table below with assignments as they become available, as well 
   <li>Lexicalized grammars, split-merge, and EM
   </ul></td>
   <td><ul>
-  <li>Read: <a href="http://www.nltk.org/book_1ed/ch08.html" target="_blank">NLTK book chapter 8 (analyzing sentence structure)</a>
+  <li>Read: <a href="http://www.nltk.org/book/ch08.html" target="_blank">NLTK book chapter 8 (analyzing sentence structure)</a>
   <li>Skim: <a href="http://ilpubs.stanford.edu:8091/~klein/unlexicalized-parsing.pdf" target="_blank">Accurate Unlexicalized Parsing</a> (Klein & Manning 2003)
   <li>Play: <a href="http://nlp.stanford.edu:8080/parser/" target="_blank">Stanford parser</a> (online demo)
   <li><em>Optional / reference:</em> <a href="http://www.surdeanu.info/mihai/teaching/ista555-fall13/readings/PennTreebankConstituents.html" target="_blank">Penn Treebank Constituent Tags</a>
@@ -419,7 +419,7 @@ We'll update the table below with assignments as they become available, as well 
   <li>Coreference Resolution
   </ul></td>
   <td><ul>
-  <li>Read: <a href="http://www.nltk.org/book_1ed/ch07.html" target="_blank">NLTK Book Chapter 7 (Extracting Information from Text)</a>
+  <li>Read: <a href="http://www.nltk.org/book/ch07.html" target="_blank">NLTK Book Chapter 7 (Extracting Information from Text)</a>
   <li><em>Optional:</em> <a href="http://www.aclweb.org/anthology/D09-1120" target="_blank">Simple Coreference Resolution with Rich Syntactic and Semantic Features</a> (Haghighi and Klein 2009, rule-based coreference)
   <li><em>Optional:</em> <a href="http://www.aclweb.org/anthology/P16-1061" target="_blank">Improving Coreference Resolution by Learning Entity-Level Distributed
   Representations</a> (Clark and Manning 2016, neural coreference)
