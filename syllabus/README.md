@@ -361,17 +361,15 @@ We'll update the table below with assignments as they become available, as well 
   <p>
   </td>
 </tr>
-<tr><!--- NNLM Assignment -->
-  <!-- <td><strong><a href="../assignment/a4" target="_blank">Assignment&nbsp;4</a></strong> -->
-  <td><strong>Assignment&nbsp;4</strong>
+<tr><!--- RNNLM Assignment -->
+  <td><strong><a href="../assignment/a4" target="_blank">Assignment&nbsp;4</a></strong>
   <br>due&nbsp;March&nbsp;11</td>
   <td><strong>RNN Language Model</strong></td>
   <td><ul>
   <li>RNNLM structure
   <li>TensorFlow implementation
   </ul></td>
-  <!-- <td><a href="../assignment/a4" target="_blank">Assignment 4</a></td> -->
-  <td><em>To be released...</em></td>
+  <td><a href="../assignment/a4" target="_blank">Assignment 4</a></td>
 </tr>
 <tr><!--- Constituency Parsing -->
   <td><strong>Week&nbsp;10</strong><br>(March&nbsp;12&nbsp;-&nbsp;18)</td>

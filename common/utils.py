@@ -35,7 +35,27 @@ def flatten(list_of_lists):
     """Flatten a list-of-lists into a single list."""
     return list(itertools.chain.from_iterable(list_of_lists))
 
-def pretty_print_matrix(M, rows=None, cols=None, dtype=float, float_fmt="{0:.04f}"):
+def render_matrix(M, rows=None, cols=None, dtype=float, float_fmt="{0:.04f}"):
+    """Render a matrix to HTML using Pandas.
+
+    Args:
+      M : 2D numpy array
+      rows : list of row labels
+      cols : list of column labels
+      dtype : data type (float or int)
+      float_fmt : format specifier for floats
+
+    Returns:
+      (string) HTML representation of M
+    """
+    df = pd.DataFrame(M, index=rows, columns=cols, dtype=dtype)
+    old_fmt_fn = pd.get_option('float_format')
+    pd.set_option('float_format', lambda f: float_fmt.format(f))
+    html = df._repr_html_()
+    pd.set_option('float_format', old_fmt_fn)  # reset Pandas formatting
+    return html
+
+def pretty_print_matrix(*args, **kw):
     """Pretty-print a matrix using Pandas.
 
     Args:
@@ -45,11 +65,8 @@ def pretty_print_matrix(M, rows=None, cols=None, dtype=float, float_fmt="{0:.04f
       dtype : data type (float or int)
       float_fmt : format specifier for floats
     """
-    df = pd.DataFrame(M, index=rows, columns=cols, dtype=dtype)
-    old_fmt_fn = pd.get_option('float_format')
-    pd.set_option('float_format', lambda f: float_fmt.format(f))
-    display(df)
-    pd.set_option('float_format', old_fmt_fn)  # reset Pandas formatting
+    display(HTML(render_matrix(*args, **kw)))
+
 
 def pretty_timedelta(fmt="%d:%02d:%02d", since=None, until=None):
     """Pretty-print a timedelta, using the given format string."""
