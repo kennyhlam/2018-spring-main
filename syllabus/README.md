@@ -452,8 +452,7 @@ We'll update the table below with assignments as they become available, as well 
   </ul></td>
 </tr>
 <tr><!--- HMM and CKY Assignment -->
-  <!-- <td><strong><a href="../assignment/a5" target="_blank">Assignment&nbsp;5</a></strong> -->
-  <td><strong>Assignment&nbsp;5</strong>
+  <td><strong><a href="../assignment/a5" target="_blank">Assignment&nbsp;5</a></strong>
   <br>due&nbsp;April&nbsp;8</td>
   <td><strong>Tagging and Parsing</strong></td>
   <td><ul>
@@ -461,8 +460,7 @@ We'll update the table below with assignments as they become available, as well 
   <li>Parsing / CKY
   </ul></td>
   <td>
-  <!-- <a href="../assignment/a5" target="_blank">Assignment 5</a> -->
-  <em>To be released...</em>
+  <a href="../assignment/a5" target="_blank">Assignment 5</a>
   <p><p>
   <a href="https://hmm-dot-nlp-visualizations.appspot.com/hmm?sentence=James+ate+the+food&vizMode=viterbi&numFormat=log" target="_blank">[HMM Demo]</a>
   <a href="https://cky-dot-nlp-visualizations.appspot.com/cky?sentence=James+ate+the+food" target="_blank">[CKY Demo]</a>
